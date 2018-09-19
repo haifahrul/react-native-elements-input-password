@@ -9,7 +9,7 @@ React Native Show or Hide input the password
 ## Example
 
 ```
-import InputPassword from 'react-native-input-password';
+import InputPassword from 'react-native-elements-input-password';
 
 <InputPassword
     label="Password"
