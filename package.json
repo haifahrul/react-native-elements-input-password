@@ -1,0 +1,27 @@
+{
+  "name": "react-native-input-password",
+  "version": "1.0.0",
+  "description": "React Native Show or Hide input the password",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.2.0",
+    "react-native": "0.53.0",
+    "react-native-elements": "^0.19.0",
+    "react-native-vector-icons": "^4.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haifahrul/react-native-input-password.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "javascript"
+  ],
+  "author": "haifahrul@gmail.com",
+  "license": "MTI",
+  "bugs": {
+    "url": "https://github.com/haifahrul/react-native-input-password/issues"
+  },
+  "homepage": "https://github.com/haifahrul/react-native-input-password#readme"
+}
