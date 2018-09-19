@@ -1,5 +1,5 @@
-# react-native-elements-password-input
-React Native Show or Hide input the password
+# react-native-elements-input-password
+React Native Elements show or hide input password
 
 ---
 
